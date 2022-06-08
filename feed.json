@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Enid",
+    "title": "Home",
     "description": "",
     "home_page_url": "https://enidleeee.github.io/portfolio",
     "feed_url": "https://enidleeee.github.io/portfolio/feed.json",
@@ -9,5 +9,46 @@
         "name": "Enid"
     },
     "items": [
+        {
+            "id": "https://enidleeee.github.io/portfolio/tt/",
+            "url": "https://enidleeee.github.io/portfolio/tt/",
+            "title": "tt",
+            "image": "https://enidleeee.github.io/portfolio/media/posts/2/Product-Card-Image.png",
+            "author": {
+                "name": "Enid"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-06-06T19:21:51+08:00",
+            "date_modified": "2022-06-06T19:21:51+08:00"
+        },
+        {
+            "id": "https://enidleeee.github.io/portfolio/test/",
+            "url": "https://enidleeee.github.io/portfolio/test/",
+            "title": "芝蔴街美語線上e學園",
+            "summary": "負責項目 : layout、前後端切版 製作期間 : 10天 使用工具 : sketch、VUE、html、css 🔗 https://eschool.sesamevillage.arks.tw/ 「Sesame&hellip;",
+            "content_html": "<pre>負責項目 : layout、前後端切版<br>製作期間 : 10天<br>使用工具 : sketch、VUE、html、css<br><br>🔗 <a href=\"https://enidleeee.github.io/portfolio\" target=\"_blank\" rel=\"nofollow sponsored ugc noopener noreferrer\">https://eschool.sesamevillage.arks.tw/</a></pre>\n<blockquote>\n<p>「Sesame Street English —芝蔴街美語教材」結合芝蔴街廣受全世界兒童喜愛的布偶、教育專家的心血、電腦動畫、高科技電子產品、豐富的教學經驗為一體。</p>\n<p>目標用戶廣為兒童、家長及老師所使用，藉由芝蔴街角色融入設計，使整體風格更為俏皮活潑，並且在介面上注重易於閱讀與操作的設計方式。</p>\n</blockquote>\n<p> </p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://enidleeee.github.io/portfolio/media/posts/1/sesamevillag6-3.png\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://enidleeee.github.io/portfolio/media/posts/1/responsive/sesamevillag6-3-xs.png 300w ,https://enidleeee.github.io/portfolio/media/posts/1/responsive/sesamevillag6-3-sm.png 480w ,https://enidleeee.github.io/portfolio/media/posts/1/responsive/sesamevillag6-3-md.png 768w ,https://enidleeee.github.io/portfolio/media/posts/1/responsive/sesamevillag6-3-lg.png 1024w\"  alt=\"\" width=\"1280\" height=\"981\"></figure>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://enidleeee.github.io/portfolio/media/posts/1/Group-63-2.png\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://enidleeee.github.io/portfolio/media/posts/1/responsive/Group-63-2-xs.png 300w ,https://enidleeee.github.io/portfolio/media/posts/1/responsive/Group-63-2-sm.png 480w ,https://enidleeee.github.io/portfolio/media/posts/1/responsive/Group-63-2-md.png 768w ,https://enidleeee.github.io/portfolio/media/posts/1/responsive/Group-63-2-lg.png 1024w\"  alt=\"\" width=\"1280\" height=\"596\"></figure>\n<p> </p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://enidleeee.github.io/portfolio/media/posts/1/Group-64-2.png\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://enidleeee.github.io/portfolio/media/posts/1/responsive/Group-64-2-xs.png 300w ,https://enidleeee.github.io/portfolio/media/posts/1/responsive/Group-64-2-sm.png 480w ,https://enidleeee.github.io/portfolio/media/posts/1/responsive/Group-64-2-md.png 768w ,https://enidleeee.github.io/portfolio/media/posts/1/responsive/Group-64-2-lg.png 1024w\"  alt=\"\" width=\"1280\" height=\"597\"></figure>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://enidleeee.github.io/portfolio/media/posts/1/sesamevillage4-3.png\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://enidleeee.github.io/portfolio/media/posts/1/responsive/sesamevillage4-3-xs.png 300w ,https://enidleeee.github.io/portfolio/media/posts/1/responsive/sesamevillage4-3-sm.png 480w ,https://enidleeee.github.io/portfolio/media/posts/1/responsive/sesamevillage4-3-md.png 768w ,https://enidleeee.github.io/portfolio/media/posts/1/responsive/sesamevillage4-3-lg.png 1024w\"  alt=\"\" width=\"1280\" height=\"882\"></figure>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://enidleeee.github.io/portfolio/media/posts/1/sesamevillage2-3.png\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://enidleeee.github.io/portfolio/media/posts/1/responsive/sesamevillage2-3-xs.png 300w ,https://enidleeee.github.io/portfolio/media/posts/1/responsive/sesamevillage2-3-sm.png 480w ,https://enidleeee.github.io/portfolio/media/posts/1/responsive/sesamevillage2-3-md.png 768w ,https://enidleeee.github.io/portfolio/media/posts/1/responsive/sesamevillage2-3-lg.png 1024w\"  alt=\"\" width=\"1280\" height=\"775\"></figure>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://enidleeee.github.io/portfolio/media/posts/1/sesamevillage1.png\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://enidleeee.github.io/portfolio/media/posts/1/responsive/sesamevillage1-xs.png 300w ,https://enidleeee.github.io/portfolio/media/posts/1/responsive/sesamevillage1-sm.png 480w ,https://enidleeee.github.io/portfolio/media/posts/1/responsive/sesamevillage1-md.png 768w ,https://enidleeee.github.io/portfolio/media/posts/1/responsive/sesamevillage1-lg.png 1024w\"  alt=\"\" width=\"1280\" height=\"1498\"></figure>\n<p> </p>\n<p> </p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://enidleeee.github.io/portfolio/media/posts/1/Group-65-2.png\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://enidleeee.github.io/portfolio/media/posts/1/responsive/Group-65-2-xs.png 300w ,https://enidleeee.github.io/portfolio/media/posts/1/responsive/Group-65-2-sm.png 480w ,https://enidleeee.github.io/portfolio/media/posts/1/responsive/Group-65-2-md.png 768w ,https://enidleeee.github.io/portfolio/media/posts/1/responsive/Group-65-2-lg.png 1024w\"  alt=\"\" width=\"1212\" height=\"565\"></figure>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://enidleeee.github.io/portfolio/media/posts/1/sesamevillage5.png\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://enidleeee.github.io/portfolio/media/posts/1/responsive/sesamevillage5-xs.png 300w ,https://enidleeee.github.io/portfolio/media/posts/1/responsive/sesamevillage5-sm.png 480w ,https://enidleeee.github.io/portfolio/media/posts/1/responsive/sesamevillage5-md.png 768w ,https://enidleeee.github.io/portfolio/media/posts/1/responsive/sesamevillage5-lg.png 1024w\"  alt=\"\" width=\"1280\" height=\"781\"></figure><br><br></p>\n<p><span style=\"color: #95a5a6;\">#web  #education</span></p>",
+            "author": {
+                "name": "Enid"
+            },
+            "tags": [
+                   "web"
+            ],
+            "date_published": "2022-06-02T17:41:51+08:00",
+            "date_modified": "2022-06-08T14:12:12+08:00"
+        },
+        {
+            "id": "https://enidleeee.github.io/portfolio/tt2/",
+            "url": "https://enidleeee.github.io/portfolio/tt2/",
+            "title": "tt2",
+            "image": "https://enidleeee.github.io/portfolio/media/posts/3/Product-Card-Image.jpg",
+            "author": {
+                "name": "Enid"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-06-01T19:22:00+08:00",
+            "date_modified": "2022-06-07T13:01:36+08:00"
+        }
     ]
 }

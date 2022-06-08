@@ -13,7 +13,7 @@ window.addEventListener('scroll', function (e) {
 		header.classList.add("is-hidden");
 
 		// Scrolling up
-	} else if (new_scroll_position > last_scroll_position) {
+	} else if (new_scroll_position > last_scroll_position && last_scroll_position > 89) {
 		header.classList.remove("is-hidden");
 		header.classList.add("is-visible");
 		if (stickyMenu) {
@@ -127,8 +127,10 @@ window.addEventListener('scroll', function (e) {
                     var submenuPotentialPosition = itemPosition + (config.submenuWidth * widthMultiplier);
 
                     if (window.innerWidth < submenuPotentialPosition) {
+                        submenu.classList.remove(config.submenuLeftPositionClass);
                         submenu.classList.add(config.submenuRightPositionClass);
                     } else {
+                        submenu.classList.remove(config.submenuRightPositionClass);
                         submenu.classList.add(config.submenuLeftPositionClass);
                     }
                 } else {
@@ -142,16 +144,19 @@ window.addEventListener('scroll', function (e) {
                     }
 
                     if (window.innerWidth < submenuPotentialPosition) {
+                        submenu.classList.remove(config.submenuLeftPositionClass);
                         submenu.classList.add(config.submenuRightPositionClass);
                         submenuPosition = -1 * submenu.clientWidth;
+                        submenu.removeAttribute('style');
 
                         if (widthMultiplier === 1) {
                             submenuPosition = 0;
+                            submenu.style.right = submenuPosition + 'px';
+                        } else {
+                            submenu.style.right = this.clientWidth + 'px';
                         }
-
-                        submenu.style.left = submenuPosition + 'px';
-                        submenu.style.right = this.clientWidth + 'px';
                     } else {
+                        submenu.classList.remove(config.submenuRightPositionClass);
                         submenu.classList.add(config.submenuLeftPositionClass);
                         submenuPosition = this.clientWidth;
 
@@ -159,6 +164,7 @@ window.addEventListener('scroll', function (e) {
                             submenuPosition = 0;
                         }
 
+                        submenu.removeAttribute('style');
                         submenu.style.left = submenuPosition + 'px';
                     }
                 }
