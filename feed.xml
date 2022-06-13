@@ -1,25 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>Home</title>
+    <title>Enid Lee</title>
     <link href="https://enidleeee.github.io/portfolio/feed.xml" rel="self" />
     <link href="https://enidleeee.github.io/portfolio" />
-    <updated>2022-06-08T14:21:21+08:00</updated>
+    <updated>2022-06-13T15:51:23+08:00</updated>
     <author>
         <name>Enid</name>
     </author>
     <id>https://enidleeee.github.io/portfolio</id>
 
     <entry>
-        <title>tt</title>
+        <title>打造響應式模組化活動網站</title>
         <author>
             <name>Enid</name>
         </author>
-        <link href="https://enidleeee.github.io/portfolio/tt/"/>
-        <id>https://enidleeee.github.io/portfolio/tt/</id>
+        <link href="https://enidleeee.github.io/portfolio/da-zao-mo-zu-hua-wang-zhan/"/>
+        <id>https://enidleeee.github.io/portfolio/da-zao-mo-zu-hua-wang-zhan/</id>
+            <category term="web"/>
+            <category term="app"/>
 
-        <updated>2022-06-06T19:21:51+08:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2022-06-13T15:51:23+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://enidleeee.github.io/portfolio/media/posts/7/Feature-img4.png" alt="" />
+                    客戶 : 必勝客、肯德基、Evolution Gaming 負責項目 : layout、前後端切版 製作期間 : 6天 (August.2021) 使用工具&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://enidleeee.github.io/portfolio/media/posts/7/Feature-img4.png" alt="" />
+                <pre>客戶 : 必勝客、肯德基、Evolution Gaming<br>負責項目 : layout、前後端切版<br>製作期間 : 6天 (August.2021)<br>使用工具 : sketch、html、css<br><br>🔗 <a href="https://otterex.ewai-valuation.com/" target="_blank" rel="noopener noreferrer">https://otterex.ewai-valuation.com/</a></pre>
+<blockquote>
+<p>以模組化的方式製作活動，在後台就可以輕鬆編輯一檔活動，每檔活動費用平均節省了10倍，對於辦活動檔期密集的通路商，是非常符合需求的行銷利器！</p>
+</blockquote>
+<figure class="post__image post__image--wide"><img loading="lazy"  src="https://enidleeee.github.io/portfolio/media/posts/7/web01.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://enidleeee.github.io/portfolio/media/posts/7/responsive/web01-xs.png 300w ,https://enidleeee.github.io/portfolio/media/posts/7/responsive/web01-sm.png 480w ,https://enidleeee.github.io/portfolio/media/posts/7/responsive/web01-md.png 768w ,https://enidleeee.github.io/portfolio/media/posts/7/responsive/web01-lg.png 1024w"  alt="" width="2560" height="5510"></figure>
+<p> </p>
+<p><span style="color: #236fa1;"><strong><span style="color: #236fa1;">#web</span>  <span style="color: #236fa1;">#RWD</span></strong></span></p>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>芝蔴街美語線上e學園</title>
@@ -30,44 +48,146 @@
         <id>https://enidleeee.github.io/portfolio/test/</id>
             <category term="web"/>
 
-        <updated>2022-06-08T14:21:21+08:00</updated>
+        <updated>2022-06-12T16:07:04+08:00</updated>
             <summary>
                 <![CDATA[
-                    負責項目 : layout、前後端切版 製作期間 : 10天 使用工具 : sketch、VUE、html、css 🔗 https://eschool.sesamevillage.arks.tw/ 「Sesame&hellip;
+                        <img src="https://enidleeee.github.io/portfolio/media/posts/1/Feature-img-2.png" alt="" />
+                    負責項目 : layout、前後端切版 製作期間 : 10天 (July.2021) 使用工具 : sketch、VUE、html、css 🔗 https://eschool.sesamevillage.arks.tw/&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <pre>負責項目 : layout、前後端切版<br>製作期間 : 10天<br>使用工具 : sketch、VUE、html、css<br><br>🔗 <a target="_blank" rel="noopener noreferrer">https://eschool.sesamevillage.arks.tw/</a></pre>
+                    <img src="https://enidleeee.github.io/portfolio/media/posts/1/Feature-img-2.png" alt="" />
+                <pre>負責項目 : layout、前後端切版<br>製作期間 : 10天 (July.2021)<br>使用工具 : sketch、VUE、html、css<br><br>🔗 <a href="https://eschool.sesamevillage.arks.tw/" target="_blank" rel="noopener noreferrer">https://eschool.sesamevillage.arks.tw/</a></pre>
 <blockquote>
-<h6>「Sesame Street English —芝蔴街美語教材」結合芝蔴街廣受全世界兒童喜愛的布偶、教育專家的心血、電腦動畫、高科技電子產品、豐富的教學經驗為一體。</h6>
+<p>「Sesame Street English —芝蔴街美語教材」結合芝蔴街廣受全世界兒童喜愛的布偶、教育專家的心血、電腦動畫、高科技電子產品、豐富的教學經驗為一體。</p>
 <p>目標用戶廣為兒童、家長及老師所使用，藉由芝蔴街角色融入設計，使整體風格更為俏皮活潑，並且在介面上注重易於閱讀與操作的設計方式。</p>
 </blockquote>
-<figure class="post__image"><img loading="lazy"  src="https://enidleeee.github.io/portfolio/media/posts/1/sesamevillag6-3.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://enidleeee.github.io/portfolio/media/posts/1/responsive/sesamevillag6-3-xs.png 300w ,https://enidleeee.github.io/portfolio/media/posts/1/responsive/sesamevillag6-3-sm.png 480w ,https://enidleeee.github.io/portfolio/media/posts/1/responsive/sesamevillag6-3-md.png 768w ,https://enidleeee.github.io/portfolio/media/posts/1/responsive/sesamevillag6-3-lg.png 1024w"  alt="" width="1280" height="981"></figure>
-<figure class="post__image"><img loading="lazy"  src="https://enidleeee.github.io/portfolio/media/posts/1/Group-63-2.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://enidleeee.github.io/portfolio/media/posts/1/responsive/Group-63-2-xs.png 300w ,https://enidleeee.github.io/portfolio/media/posts/1/responsive/Group-63-2-sm.png 480w ,https://enidleeee.github.io/portfolio/media/posts/1/responsive/Group-63-2-md.png 768w ,https://enidleeee.github.io/portfolio/media/posts/1/responsive/Group-63-2-lg.png 1024w"  alt="" width="1280" height="596"></figure>
+<figure class="post__image" ><figure class="post__image"><img loading="lazy"  src="https://enidleeee.github.io/portfolio/media/posts/1/sesamevillag6-3.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://enidleeee.github.io/portfolio/media/posts/1/responsive/sesamevillag6-3-xs.png 300w ,https://enidleeee.github.io/portfolio/media/posts/1/responsive/sesamevillag6-3-sm.png 480w ,https://enidleeee.github.io/portfolio/media/posts/1/responsive/sesamevillag6-3-md.png 768w ,https://enidleeee.github.io/portfolio/media/posts/1/responsive/sesamevillag6-3-lg.png 1024w"  alt="" width="1280" height="981"></figure>
+<figcaption >入口頁 : 分為總部、老師、學生登入導引</figcaption>
+</figure>
+<figure class="post__image" ><figure class="post__image"><img loading="lazy"  src="https://enidleeee.github.io/portfolio/media/posts/1/Group-63-2.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://enidleeee.github.io/portfolio/media/posts/1/responsive/Group-63-2-xs.png 300w ,https://enidleeee.github.io/portfolio/media/posts/1/responsive/Group-63-2-sm.png 480w ,https://enidleeee.github.io/portfolio/media/posts/1/responsive/Group-63-2-md.png 768w ,https://enidleeee.github.io/portfolio/media/posts/1/responsive/Group-63-2-lg.png 1024w"  alt="" width="1280" height="596"></figure>
+<figcaption >總部-SITEMAP</figcaption>
+</figure>
 <p> </p>
-<figure class="post__image"><img loading="lazy"  src="https://enidleeee.github.io/portfolio/media/posts/1/Group-64-2.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://enidleeee.github.io/portfolio/media/posts/1/responsive/Group-64-2-xs.png 300w ,https://enidleeee.github.io/portfolio/media/posts/1/responsive/Group-64-2-sm.png 480w ,https://enidleeee.github.io/portfolio/media/posts/1/responsive/Group-64-2-md.png 768w ,https://enidleeee.github.io/portfolio/media/posts/1/responsive/Group-64-2-lg.png 1024w"  alt="" width="1280" height="597"></figure>
+<figure class="post__image" ><figure class="post__image"><img loading="lazy"  src="https://enidleeee.github.io/portfolio/media/posts/1/Group-64-2.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://enidleeee.github.io/portfolio/media/posts/1/responsive/Group-64-2-xs.png 300w ,https://enidleeee.github.io/portfolio/media/posts/1/responsive/Group-64-2-sm.png 480w ,https://enidleeee.github.io/portfolio/media/posts/1/responsive/Group-64-2-md.png 768w ,https://enidleeee.github.io/portfolio/media/posts/1/responsive/Group-64-2-lg.png 1024w"  alt="" width="1280" height="597"></figure>
+<figcaption >老師端-SITEMAP</figcaption>
+</figure>
 <figure class="post__image"><img loading="lazy"  src="https://enidleeee.github.io/portfolio/media/posts/1/sesamevillage4-3.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://enidleeee.github.io/portfolio/media/posts/1/responsive/sesamevillage4-3-xs.png 300w ,https://enidleeee.github.io/portfolio/media/posts/1/responsive/sesamevillage4-3-sm.png 480w ,https://enidleeee.github.io/portfolio/media/posts/1/responsive/sesamevillage4-3-md.png 768w ,https://enidleeee.github.io/portfolio/media/posts/1/responsive/sesamevillage4-3-lg.png 1024w"  alt="" width="1280" height="882"></figure>
 <figure class="post__image"><img loading="lazy"  src="https://enidleeee.github.io/portfolio/media/posts/1/sesamevillage2-3.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://enidleeee.github.io/portfolio/media/posts/1/responsive/sesamevillage2-3-xs.png 300w ,https://enidleeee.github.io/portfolio/media/posts/1/responsive/sesamevillage2-3-sm.png 480w ,https://enidleeee.github.io/portfolio/media/posts/1/responsive/sesamevillage2-3-md.png 768w ,https://enidleeee.github.io/portfolio/media/posts/1/responsive/sesamevillage2-3-lg.png 1024w"  alt="" width="1280" height="775"></figure>
-<figure class="post__image"><img loading="lazy"  src="https://enidleeee.github.io/portfolio/media/posts/1/sesamevillage1.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://enidleeee.github.io/portfolio/media/posts/1/responsive/sesamevillage1-xs.png 300w ,https://enidleeee.github.io/portfolio/media/posts/1/responsive/sesamevillage1-sm.png 480w ,https://enidleeee.github.io/portfolio/media/posts/1/responsive/sesamevillage1-md.png 768w ,https://enidleeee.github.io/portfolio/media/posts/1/responsive/sesamevillage1-lg.png 1024w"  alt="" width="1280" height="1498"></figure>
-<p> </p>
-<p> </p>
-<figure class="post__image"><img loading="lazy"  src="https://enidleeee.github.io/portfolio/media/posts/1/Group-65-2.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://enidleeee.github.io/portfolio/media/posts/1/responsive/Group-65-2-xs.png 300w ,https://enidleeee.github.io/portfolio/media/posts/1/responsive/Group-65-2-sm.png 480w ,https://enidleeee.github.io/portfolio/media/posts/1/responsive/Group-65-2-md.png 768w ,https://enidleeee.github.io/portfolio/media/posts/1/responsive/Group-65-2-lg.png 1024w"  alt="" width="1212" height="565"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://enidleeee.github.io/portfolio/media/posts/1/Frame-3.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://enidleeee.github.io/portfolio/media/posts/1/responsive/Frame-3-xs.png 300w ,https://enidleeee.github.io/portfolio/media/posts/1/responsive/Frame-3-sm.png 480w ,https://enidleeee.github.io/portfolio/media/posts/1/responsive/Frame-3-md.png 768w ,https://enidleeee.github.io/portfolio/media/posts/1/responsive/Frame-3-lg.png 1024w"  alt="" width="1280" height="1153"></figure>
+<figure class="post__image" ><figure class="post__image"><img loading="lazy"  src="https://enidleeee.github.io/portfolio/media/posts/1/Group-65-2.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://enidleeee.github.io/portfolio/media/posts/1/responsive/Group-65-2-xs.png 300w ,https://enidleeee.github.io/portfolio/media/posts/1/responsive/Group-65-2-sm.png 480w ,https://enidleeee.github.io/portfolio/media/posts/1/responsive/Group-65-2-md.png 768w ,https://enidleeee.github.io/portfolio/media/posts/1/responsive/Group-65-2-lg.png 1024w"  alt="" width="1280" height="597"></figure>
+<figcaption >老師端-SITEMAP</figcaption>
+</figure>
 <figure class="post__image"><img loading="lazy"  src="https://enidleeee.github.io/portfolio/media/posts/1/sesamevillage5.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://enidleeee.github.io/portfolio/media/posts/1/responsive/sesamevillage5-xs.png 300w ,https://enidleeee.github.io/portfolio/media/posts/1/responsive/sesamevillage5-sm.png 480w ,https://enidleeee.github.io/portfolio/media/posts/1/responsive/sesamevillage5-md.png 768w ,https://enidleeee.github.io/portfolio/media/posts/1/responsive/sesamevillage5-lg.png 1024w"  alt="" width="1280" height="781"></figure><br><br></p>
-<p><span style="color: #95a5a6;">#web  #education</span></p>
+<p><strong><span style="color: #236fa1;">#web  #education</span></strong></p>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>tt2</title>
+        <title>OTTEREX 公司估值系統</title>
         <author>
             <name>Enid</name>
         </author>
-        <link href="https://enidleeee.github.io/portfolio/tt2/"/>
-        <id>https://enidleeee.github.io/portfolio/tt2/</id>
+        <link href="https://enidleeee.github.io/portfolio/otterex-gong-si-gu-zhi-xi-tong/"/>
+        <id>https://enidleeee.github.io/portfolio/otterex-gong-si-gu-zhi-xi-tong/</id>
+            <category term="web"/>
 
-        <updated>2022-06-07T13:01:36+08:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2022-06-12T16:06:36+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://enidleeee.github.io/portfolio/media/posts/5/Feature-img2.png" alt="" />
+                    負責項目 : layout、前後端切版 製作期間 : 9天 (April.2021) 使用工具 : sketch、html、css 🔗 https://otterex.ewai-valuation.com/&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://enidleeee.github.io/portfolio/media/posts/5/Feature-img2.png" alt="" />
+                <pre>負責項目 : layout、前後端切版<br>製作期間 : 9天 (April.2021)<br>使用工具 : sketch、html、css<br><br>🔗 <a href="https://otterex.ewai-valuation.com/" target="_blank" rel="noopener noreferrer">https://otterex.ewai-valuation.com/</a></pre>
+<blockquote>
+<p><span style="font-family: var(--font-serif); color: var(--text-primary-color); font-size: inherit; font-weight: var(--font-weight-normal);"><strong>OTTEREX公司估值系統 </strong>是 <strong>若水數位評鑑 </strong>為新創公司所提供的視覺化估值分析方案，此</span><span style="font-family: var(--font-serif); color: var(--text-primary-color); font-size: inherit; font-weight: var(--font-weight-normal);">估值系統係在一定前提假設下進行運算分析，並產出報告提供經營建議。</span></p>
+</blockquote>
+<figure ><figure class="post__image"><img loading="lazy"  src="https://enidleeee.github.io/portfolio/media/posts/5/ott1-2.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://enidleeee.github.io/portfolio/media/posts/5/responsive/ott1-2-xs.png 300w ,https://enidleeee.github.io/portfolio/media/posts/5/responsive/ott1-2-sm.png 480w ,https://enidleeee.github.io/portfolio/media/posts/5/responsive/ott1-2-md.png 768w ,https://enidleeee.github.io/portfolio/media/posts/5/responsive/ott1-2-lg.png 1024w"  alt="" width="1280" height="911"></figure>
+<figcaption ><span style="font-family: var(--font-serif); color: var(--text-primary-color); font-size: inherit; font-weight: var(--font-weight-normal);">OTTEREX公司估值系統 - 登入頁</span></figcaption>
+</figure>
+<figure class="post__image" ><figure class="post__image"><img loading="lazy"  src="https://enidleeee.github.io/portfolio/media/posts/5/ott2-3.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://enidleeee.github.io/portfolio/media/posts/5/responsive/ott2-3-xs.png 300w ,https://enidleeee.github.io/portfolio/media/posts/5/responsive/ott2-3-sm.png 480w ,https://enidleeee.github.io/portfolio/media/posts/5/responsive/ott2-3-md.png 768w ,https://enidleeee.github.io/portfolio/media/posts/5/responsive/ott2-3-lg.png 1024w"  alt="" width="1280" height="2304"></figure>
+<figcaption ><span style="font-family: var(--font-serif); color: var(--text-primary-color); font-size: inherit; font-weight: var(--font-weight-normal);">OTTEREX公司估值系統 - 評鑑頁面</span></figcaption>
+</figure>
+<h4> </h4>
+<h3 class="align-center"><strong><em>挑戰</em></strong></h3>
+<ul>
+<li>估值報告每股價值的樹線圖會因為一些極端數值並且若遇相同數值時會產生重疊影響閱讀
+<ul>
+<li>將設計改成數值上下錯開排列，並且切板時限制一個最大數值控制在框框內避免破版</li>
+</ul>
+</li>
+<li>在報告產出列印PDF時遇到跑版的情形，當時被告知在產出PDF時css上有使用上的限制(css3等新語法無法被實現，僅能使用table的切法)，但由於報告內容有數線圖、圓餅圖等複雜圖表，無法用table實現
+<ul>
+<li>在與RD頻繁溝通以及設計主管討論後，嘗試了@media print的寫法，並且在每次產出報告時做版面上的微調，後續藉由print css解決了這個問題</li>
+</ul>
+</li>
+<li>估值報告產出圓餅圖的地方，在設計前先與RD討論會使用哪一種plugin，並以plugin的樣式去設計，在配合的過程中互相討論plugin可以控制版面的幾個參數並熟悉文件</li>
+</ul>
+<figure ><figure class="post__image"><img loading="lazy"  src="https://enidleeee.github.io/portfolio/media/posts/5/ott3-3.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://enidleeee.github.io/portfolio/media/posts/5/responsive/ott3-3-xs.png 300w ,https://enidleeee.github.io/portfolio/media/posts/5/responsive/ott3-3-sm.png 480w ,https://enidleeee.github.io/portfolio/media/posts/5/responsive/ott3-3-md.png 768w ,https://enidleeee.github.io/portfolio/media/posts/5/responsive/ott3-3-lg.png 1024w"  alt="" width="1280" height="1811"></figure>
+<figcaption ><span style="font-family: var(--font-serif); color: var(--text-primary-color); font-size: inherit; font-weight: var(--font-weight-normal);">OTTEREX公司估值系統 - 估值報告第一頁</span></figcaption>
+</figure>
+<p> </p>
+<p><strong><span style="color: #236fa1;">#web  #finance</span></strong></p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>麥胞小尖兵APP</title>
+        <author>
+            <name>Enid</name>
+        </author>
+        <link href="https://enidleeee.github.io/portfolio/mai-bao-xiao-jian-bing-app/"/>
+        <id>https://enidleeee.github.io/portfolio/mai-bao-xiao-jian-bing-app/</id>
+            <category term="web"/>
+            <category term="app"/>
+
+        <updated>2022-06-12T20:05:00+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://enidleeee.github.io/portfolio/media/posts/6/Feature-img3-2.png" alt="" />
+                    負責項目 : layout、前後端切版 參與期間 : 一年多 (January.2021 ~ May.2022) 使用工具 : sketch、Figma、VUE、ionic、html、css&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://enidleeee.github.io/portfolio/media/posts/6/Feature-img3-2.png" alt="" />
+                <pre>負責項目 : layout、前後端切版<br>參與期間 : 一年多 (January.2021 ~ May.2022)<br>使用工具 : sketch、Figma、VUE、ionic、html、css</pre>
+<blockquote>長久以來， 麥當勞一直不斷在進行營運優化以及管理效率提升的各種專案，同時也是重視員工成長的企業，<strong>麥胞小尖兵APP </strong>便是一款員工個人專屬APP，麥胞們可以透過此APP了解自身權益、福利以及所有麥當勞最新動態。</blockquote>
+<h3> </h3>
+<h2 class="align-left"><strong>遭遇改革</strong></h2>
+<p class="align-left">加入團隊初期，即遇到UI改版設計以及更換程式環境架構，目標是保持品牌價值並且提升整體使用流暢度。</p>
+<ul>
+<li>在<strong>UI介面改版設計</strong>時共同擬定Design System，為保持設計一致性，規劃新功能時需要遵循設計系統去做適當的發揮，保留品牌風格的同時更去加強整體架構上的流暢使用。</li>
+<li>在<strong>程式</strong>上必須花些時間熟悉新的UI framework，並且協助在有限時間內將多達100+的頁面，使用新架構切版出來並交付測試。</li>
+</ul>
+<figure class="post__image" ><figure class="post__image"><img loading="lazy"  src="https://enidleeee.github.io/portfolio/media/posts/6/Mai-Bao-Xiao-Jian-Bing-APP-2.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://enidleeee.github.io/portfolio/media/posts/6/responsive/Mai-Bao-Xiao-Jian-Bing-APP-2-xs.png 300w ,https://enidleeee.github.io/portfolio/media/posts/6/responsive/Mai-Bao-Xiao-Jian-Bing-APP-2-sm.png 480w ,https://enidleeee.github.io/portfolio/media/posts/6/responsive/Mai-Bao-Xiao-Jian-Bing-APP-2-md.png 768w ,https://enidleeee.github.io/portfolio/media/posts/6/responsive/Mai-Bao-Xiao-Jian-Bing-APP-2-lg.png 1024w"  alt="" width="1280" height="1601"></figure>
+<figcaption >此表為改版時被分配的功能，以及日後所負責的新功能</figcaption>
+</figure>
+<h3> </h3>
+<h2 class="LC20lb MBeuO DKV0Md align-left"><strong>透過小遊戲增加用戶黏著度</strong></h2>
+<p>麥胞小尖兵作為與麥胞溝通的橋樑，藉由遊戲化的設計傳遞新品消息，並將食安以及消防等生硬資訊活潑呈現，不僅如此，完成指定任務累積點數還能從APP上換取麥胞精品。</p>
+<h4><span style="color: #236fa1;"><strong>超前部署之消防演練</strong></span></h4>
+<pre>活動名稱 : 超前部署之消防演練<br>負責項目 : layout、切版<br>製作期間 : 4天 (April.2021)<br>使用工具 : sketch、html、css</pre>
+<figure class="post__image"><img loading="lazy"  src="https://enidleeee.github.io/portfolio/media/posts/6/mcd01.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://enidleeee.github.io/portfolio/media/posts/6/responsive/mcd01-xs.png 300w ,https://enidleeee.github.io/portfolio/media/posts/6/responsive/mcd01-sm.png 480w ,https://enidleeee.github.io/portfolio/media/posts/6/responsive/mcd01-md.png 768w ,https://enidleeee.github.io/portfolio/media/posts/6/responsive/mcd01-lg.png 1024w"  alt="" width="1280" height="1620"></figure>
+<hr>
+<h4><strong>新春DT加油讚</strong></h4>
+<pre>活動名稱 : 新春DT加油讚<br>負責項目 : layout、切版<br>製作期間 : 3天 (January.2022)<br>使用工具 : sketch、html、css</pre>
+<figure class="post__image"><img loading="lazy"  src="https://enidleeee.github.io/portfolio/media/posts/6/mcd02.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://enidleeee.github.io/portfolio/media/posts/6/responsive/mcd02-xs.png 300w ,https://enidleeee.github.io/portfolio/media/posts/6/responsive/mcd02-sm.png 480w ,https://enidleeee.github.io/portfolio/media/posts/6/responsive/mcd02-md.png 768w ,https://enidleeee.github.io/portfolio/media/posts/6/responsive/mcd02-lg.png 1024w"  alt="" width="1280" height="1620"></figure>
+<p> </p>
+<p> </p>
+<p><span style="color: #7e8c8d;"><strong>媒體報導</strong></span></p>
+<p><a href="#INTERNAL_LINK#/post/null"></a><a href="https://www.chinatimes.com/realtimenews/20201222001376-260405?chdtv" target="_blank" rel="noopener noreferrer">「手遊」概念犒賞員工 麥當勞「線上尾牙」好嗨</a></p>
+<p><a href="https://www.managertoday.com.tw/articles/view/62211" target="_blank" rel="noopener noreferrer">麥當勞大店長學：不只當個小螺絲釘，一支人人都是教練的美味戰隊！</a></p>
+<p><a href="https://www.cio.com.tw/interview-mcdonalds-vice-president-of-strategic-innovation-group-lin-mingdao/" target="_blank" rel="noopener noreferrer">麥當勞透過員工App(麥胞小尖兵) 做為溝通管道，度過疫情衝擊</a></p>
+<p> </p>
+<p><strong><span style="color: #236fa1;"><span style="color: #236fa1;">#app</span> <span style="color: #843fa1;"> <span style="color: #236fa1;">#productivity</span></span> <span style="color: #236fa1;"> #ios</span> <span style="color: #236fa1;"> #android</span></span></strong></p>
+            ]]>
+        </content>
     </entry>
 </feed>
