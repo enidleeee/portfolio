@@ -3,12 +3,116 @@
     <title>Enid Lee</title>
     <link href="https://enidleeee.github.io/portfolio/feed.xml" rel="self" />
     <link href="https://enidleeee.github.io/portfolio" />
-    <updated>2022-06-13T15:51:23+08:00</updated>
+    <updated>2022-06-16T16:15:02+08:00</updated>
     <author>
         <name>Enid</name>
     </author>
     <id>https://enidleeee.github.io/portfolio</id>
 
+    <entry>
+        <title>麥胞小尖兵APP</title>
+        <author>
+            <name>Enid</name>
+        </author>
+        <link href="https://enidleeee.github.io/portfolio/mai-bao-xiao-jian-bing-app/"/>
+        <id>https://enidleeee.github.io/portfolio/mai-bao-xiao-jian-bing-app/</id>
+            <category term="web"/>
+            <category term="app"/>
+
+        <updated>2022-06-16T15:56:37+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://enidleeee.github.io/portfolio/media/posts/6/Feature-img3.png" alt="" />
+                    負責項目 : 介面設計、前後端切版 參與期間 : 一年多 (January.2021 ~ May.2022) 使用工具 : sketch、Figma、VUE、ionic、html、css&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://enidleeee.github.io/portfolio/media/posts/6/Feature-img3.png" alt="" />
+                <pre>負責項目 : 介面設計、前後端切版<br>參與期間 : 一年多 (January.2021 ~ May.2022)<br>使用工具 : sketch、Figma、VUE、ionic、html、css</pre>
+<blockquote>長久以來， 麥當勞一直不斷在進行營運優化以及管理效率提升的各種專案，同時也是重視員工成長的企業，<strong>麥胞小尖兵APP </strong>便是一款員工個人專屬 APP，麥胞們可以透過此 APP了解自身權益、福利以及所有麥當勞最新動態。</blockquote>
+<p> </p>
+<h2 class="align-left"><strong>遭遇改革</strong></h2>
+<p class="align-left">加入團隊初期，即遇到UI改版設計以及更換程式環境架構，目標是保持品牌價值並且提升整體使用流暢度。</p>
+<ul>
+<li>在<strong>UI介面改版設計</strong>時共同擬定Design System，為保持設計一致性，規劃新功能時需要遵循設計系統去做適當的發揮，保留品牌風格的同時更去加強整體架構上的流暢使用。</li>
+<li>在<strong>程式</strong>上花一個月熟悉新的UI framework，並且協助在有限時間內將多達100+的頁面，使用新架構切版出來並交付測試。</li>
+</ul>
+<figure class="post__image" ><figure class="post__image"><img loading="lazy"  src="https://enidleeee.github.io/portfolio/media/posts/6/Mai-Bao-Xiao-Jian-Bing-APP-2.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://enidleeee.github.io/portfolio/media/posts/6/responsive/Mai-Bao-Xiao-Jian-Bing-APP-2-xs.png 300w ,https://enidleeee.github.io/portfolio/media/posts/6/responsive/Mai-Bao-Xiao-Jian-Bing-APP-2-sm.png 480w ,https://enidleeee.github.io/portfolio/media/posts/6/responsive/Mai-Bao-Xiao-Jian-Bing-APP-2-md.png 768w ,https://enidleeee.github.io/portfolio/media/posts/6/responsive/Mai-Bao-Xiao-Jian-Bing-APP-2-lg.png 1024w"  alt="" width="1280" height="1601"></figure>
+<figcaption >此表為改版時被分配的項目，以及日後我所負責的新功能</figcaption>
+</figure>
+<h3> </h3>
+<h2 class="LC20lb MBeuO DKV0Md align-left"><strong>透過小遊戲增加用戶黏著度</strong></h2>
+<p>麥胞小尖兵作為與麥胞溝通的橋樑，藉由遊戲化的設計傳遞新品消息，並將食安以及消防演練等生硬資訊活潑呈現，不僅如此，完成指定任務累積點數還能從APP上換取麥胞精品，以此作為獎勵並提起用戶興趣，以下簡介幾項我所負責的小活動。</p>
+<h4><span style="color: #343434;"><strong>超前部署之消防演練</strong></span></h4>
+<pre>活動名稱 : 超前部署之消防演練<br>負責項目 : layout、切版<br>製作期間 : 4天 (April.2021)<br>使用工具 : sketch、html、css</pre>
+<figure class="post__image"><img loading="lazy"  src="https://enidleeee.github.io/portfolio/media/posts/6/mcd01.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://enidleeee.github.io/portfolio/media/posts/6/responsive/mcd01-xs.png 300w ,https://enidleeee.github.io/portfolio/media/posts/6/responsive/mcd01-sm.png 480w ,https://enidleeee.github.io/portfolio/media/posts/6/responsive/mcd01-md.png 768w ,https://enidleeee.github.io/portfolio/media/posts/6/responsive/mcd01-lg.png 1024w"  alt="" width="1280" height="1620"></figure>
+<hr>
+<h4><strong>新春DT加油讚</strong></h4>
+<pre>活動名稱 : 新春DT加油讚<br>負責項目 : layout、切版<br>製作期間 : 3天 (January.2022)<br>使用工具 : sketch、html、css</pre>
+<figure class="post__image"><img loading="lazy"  src="https://enidleeee.github.io/portfolio/media/posts/6/mcd02.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://enidleeee.github.io/portfolio/media/posts/6/responsive/mcd02-xs.png 300w ,https://enidleeee.github.io/portfolio/media/posts/6/responsive/mcd02-sm.png 480w ,https://enidleeee.github.io/portfolio/media/posts/6/responsive/mcd02-md.png 768w ,https://enidleeee.github.io/portfolio/media/posts/6/responsive/mcd02-lg.png 1024w"  alt="" width="1280" height="1620"></figure>
+<p> </p>
+<p> </p>
+<p><span style="color: #343434;">| <strong>媒體報導</strong> |</span></p>
+<p><a href="#INTERNAL_LINK#/post/null"></a><span style="color: #8f5e13;"><a href="https://www.chinatimes.com/realtimenews/20201222001376-260405?chdtv" target="_blank" rel="noopener noreferrer"><strong><span style="color: #8f5e13;">「手遊」概念犒賞員工 麥當勞「線上尾牙」好嗨</span></strong></a></span></p>
+<p><span style="color: #8f5e13;"><strong><a href="https://www.managertoday.com.tw/articles/view/62211" target="_blank" rel="noopener noreferrer" style="color: #8f5e13;">麥當勞大店長學：不只當個小螺絲釘，一支人人都是教練的美味戰隊！</a></strong></span></p>
+<p><span style="color: #8f5e13;"><strong><a href="https://www.cio.com.tw/interview-mcdonalds-vice-president-of-strategic-innovation-group-lin-mingdao/" target="_blank" rel="noopener noreferrer" style="color: #8f5e13;">麥當勞透過員工App(麥胞小尖兵) 做為溝通管道，度過疫情衝擊</a></strong></span></p>
+<p> </p>
+<p><span style="color: #bf5e13;"><span style="color: #8f5e13;">#app</span>  <span style="color: #8f5e13;">#productivity</span>  <span style="color: #8f5e13;">#ios</span>  <span style="color: #8f5e13;">#android</span></span></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>ISZN國際紫微學會</title>
+        <author>
+            <name>Enid</name>
+        </author>
+        <link href="https://enidleeee.github.io/portfolio/guo-ji-zi-wei-xue-hui/"/>
+        <id>https://enidleeee.github.io/portfolio/guo-ji-zi-wei-xue-hui/</id>
+            <category term="web"/>
+
+        <updated>2022-06-15T18:20:15+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://enidleeee.github.io/portfolio/media/posts/10/Feature-img6.png" alt="" />
+                    負責項目 : 介面設計、前後端切版 製作期間 : 11天 (Jan.2022) 使用工具 : sketch、html、css 🔗 https://www.iszn.tw/&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://enidleeee.github.io/portfolio/media/posts/10/Feature-img6.png" alt="" />
+                <pre>負責項目 : 介面設計、前後端切版<br>製作期間 : 11天 (Jan.2022)<br>使用工具 : sketch、html、css<br>🔗 <a href="https://www.iszn.tw/" target="null">https://www.iszn.tw/</a></pre>
+<blockquote><strong>ISZN國際紫微學會</strong>，是一個推廣系統化紫微斗數專業教授課程，並且將東方命理推向互動化的網站。</blockquote>
+<h2><strong>設計理念</strong></h2>
+<p>紫微斗數屬於東方命理的其中一環，因此在網站中以紙質背景、<span class="Y2IQFc" lang="zh-TW">襯線體字型帶出一絲東方意味。從配色中選用紫色作為整體網站的主色，並以顯著的橘色作為強調色。在各頁面的主標題設計上，書法練習紙意味著中國藝術和心理的結合，而副標題則以圓點和線條象徵著星象的意義。</span></p>
+<p><strong>中國傳統曆法和星象的融合</strong></p>
+<p>紫微斗數實質上是古代一種結合天干地支和觀星的算命方法，因此在設計上除了帶入有中國元素的花邊樣式、天干地支輪盤外，星象則以比較現代氣息的方式去呈現，意象化的圓點線條抑或是星象圖，兩者融合，巧妙的讓傳統元素更有活力。</p>
+<figure class="post__image" ><img loading="lazy" src="https://enidleeee.github.io/portfolio/media/posts/10/iszn01.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://enidleeee.github.io/portfolio/media/posts/10/responsive/iszn01-xs.png 300w ,https://enidleeee.github.io/portfolio/media/posts/10/responsive/iszn01-sm.png 480w ,https://enidleeee.github.io/portfolio/media/posts/10/responsive/iszn01-md.png 768w ,https://enidleeee.github.io/portfolio/media/posts/10/responsive/iszn01-lg.png 1024w"  alt="" width="1280" height="1375">
+<figcaption >首頁</figcaption>
+</figure>
+<figure ><figure class="post__image"><img loading="lazy"  src="https://enidleeee.github.io/portfolio/media/posts/10/iszn02.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://enidleeee.github.io/portfolio/media/posts/10/responsive/iszn02-xs.png 300w ,https://enidleeee.github.io/portfolio/media/posts/10/responsive/iszn02-sm.png 480w ,https://enidleeee.github.io/portfolio/media/posts/10/responsive/iszn02-md.png 768w ,https://enidleeee.github.io/portfolio/media/posts/10/responsive/iszn02-lg.png 1024w"  alt="" width="1280" height="1231"></figure>
+<figcaption >登入 / 註冊</figcaption>
+</figure>
+<figure ><figure class="post__image"><img loading="lazy"  src="https://enidleeee.github.io/portfolio/media/posts/10/iszn04.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://enidleeee.github.io/portfolio/media/posts/10/responsive/iszn04-xs.png 300w ,https://enidleeee.github.io/portfolio/media/posts/10/responsive/iszn04-sm.png 480w ,https://enidleeee.github.io/portfolio/media/posts/10/responsive/iszn04-md.png 768w ,https://enidleeee.github.io/portfolio/media/posts/10/responsive/iszn04-lg.png 1024w"  alt="" width="1280" height="910"></figure>
+<figcaption >會員中心 - 命例檔案</figcaption>
+</figure>
+<figure ><figure class="post__image"><img loading="lazy"  src="https://enidleeee.github.io/portfolio/media/posts/10/iszn03.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://enidleeee.github.io/portfolio/media/posts/10/responsive/iszn03-xs.png 300w ,https://enidleeee.github.io/portfolio/media/posts/10/responsive/iszn03-sm.png 480w ,https://enidleeee.github.io/portfolio/media/posts/10/responsive/iszn03-md.png 768w ,https://enidleeee.github.io/portfolio/media/posts/10/responsive/iszn03-lg.png 1024w"  alt="" width="1280" height="984"></figure>
+<figcaption >商店</figcaption>
+</figure>
+<figure ><figure class="post__image"><img loading="lazy"  src="https://enidleeee.github.io/portfolio/media/posts/10/iszn05-2.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://enidleeee.github.io/portfolio/media/posts/10/responsive/iszn05-2-xs.png 300w ,https://enidleeee.github.io/portfolio/media/posts/10/responsive/iszn05-2-sm.png 480w ,https://enidleeee.github.io/portfolio/media/posts/10/responsive/iszn05-2-md.png 768w ,https://enidleeee.github.io/portfolio/media/posts/10/responsive/iszn05-2-lg.png 1024w"  alt="" width="1280" height="1329"></figure>
+<figcaption >互動命盤</figcaption>
+</figure>
+<figure ><figure class="post__image"><img loading="lazy"  src="https://enidleeee.github.io/portfolio/media/posts/10/iszn06.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://enidleeee.github.io/portfolio/media/posts/10/responsive/iszn06-xs.png 300w ,https://enidleeee.github.io/portfolio/media/posts/10/responsive/iszn06-sm.png 480w ,https://enidleeee.github.io/portfolio/media/posts/10/responsive/iszn06-md.png 768w ,https://enidleeee.github.io/portfolio/media/posts/10/responsive/iszn06-lg.png 1024w"  alt="" width="1280" height="1723"></figure>
+<figcaption >互動命盤 - 選擇解題項目後的回答</figcaption>
+</figure>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p><span style="color: #236fa1;"><strong><span style="color: #236fa1;">#web  #RWD  </span><span style="color: #236fa1;">#Big data</span></strong></span></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>打造響應式模組化活動網站</title>
         <author>
@@ -17,25 +121,21 @@
         <link href="https://enidleeee.github.io/portfolio/da-zao-mo-zu-hua-wang-zhan/"/>
         <id>https://enidleeee.github.io/portfolio/da-zao-mo-zu-hua-wang-zhan/</id>
             <category term="web"/>
-            <category term="app"/>
 
-        <updated>2022-06-13T15:51:23+08:00</updated>
+        <updated>2022-06-16T15:58:07+08:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://enidleeee.github.io/portfolio/media/posts/7/Feature-img4.png" alt="" />
-                    客戶 : 必勝客、肯德基、Evolution Gaming 負責項目 : layout、前後端切版 製作期間 : 6天 (August.2021) 使用工具&hellip;
+                        <img src="https://enidleeee.github.io/portfolio/media/posts/7/Feature-img4-2.png" alt="" />
+                    客戶 : 必勝客、肯德基、Evolution Gaming 負責項目 : 介面設計、前後端切版 製作期間 : 6天 (August.2021) 使用工具&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://enidleeee.github.io/portfolio/media/posts/7/Feature-img4.png" alt="" />
-                <pre>客戶 : 必勝客、肯德基、Evolution Gaming<br>負責項目 : layout、前後端切版<br>製作期間 : 6天 (August.2021)<br>使用工具 : sketch、html、css<br><br>🔗 <a href="https://otterex.ewai-valuation.com/" target="_blank" rel="noopener noreferrer">https://otterex.ewai-valuation.com/</a></pre>
-<blockquote>
-<p>以模組化的方式製作活動，在後台就可以輕鬆編輯一檔活動，每檔活動費用平均節省了10倍，對於辦活動檔期密集的通路商，是非常符合需求的行銷利器！</p>
-</blockquote>
-<figure class="post__image post__image--wide"><img loading="lazy"  src="https://enidleeee.github.io/portfolio/media/posts/7/web01.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://enidleeee.github.io/portfolio/media/posts/7/responsive/web01-xs.png 300w ,https://enidleeee.github.io/portfolio/media/posts/7/responsive/web01-sm.png 480w ,https://enidleeee.github.io/portfolio/media/posts/7/responsive/web01-md.png 768w ,https://enidleeee.github.io/portfolio/media/posts/7/responsive/web01-lg.png 1024w"  alt="" width="2560" height="5510"></figure>
+                    <img src="https://enidleeee.github.io/portfolio/media/posts/7/Feature-img4-2.png" alt="" />
+                <pre>客戶 : 必勝客、肯德基、Evolution Gaming<br>負責項目 : 介面設計、前後端切版<br>製作期間 : 6天 (August.2021)<br>使用工具 : sketch、html、css</pre>
+<figure class="post__image post__image--wide"><img loading="lazy"  src="https://enidleeee.github.io/portfolio/media/posts/7/web01-2.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://enidleeee.github.io/portfolio/media/posts/7/responsive/web01-2-xs.png 300w ,https://enidleeee.github.io/portfolio/media/posts/7/responsive/web01-2-sm.png 480w ,https://enidleeee.github.io/portfolio/media/posts/7/responsive/web01-2-md.png 768w ,https://enidleeee.github.io/portfolio/media/posts/7/responsive/web01-2-lg.png 1024w"  alt="" width="3840" height="8265"></figure>
 <p> </p>
-<p><span style="color: #236fa1;"><strong><span style="color: #236fa1;">#web</span>  <span style="color: #236fa1;">#RWD</span></strong></span></p>
+<p><span style="color: #236fa1;"><span style="color: #8f5e13;">#web</span>  <span style="color: #8f5e13;">#RWD</span></span></p>
             ]]>
         </content>
     </entry>
@@ -48,19 +148,19 @@
         <id>https://enidleeee.github.io/portfolio/test/</id>
             <category term="web"/>
 
-        <updated>2022-06-12T16:07:04+08:00</updated>
+        <updated>2022-06-16T16:15:02+08:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://enidleeee.github.io/portfolio/media/posts/1/Feature-img-2.png" alt="" />
-                    負責項目 : layout、前後端切版 製作期間 : 10天 (July.2021) 使用工具 : sketch、VUE、html、css 🔗 https://eschool.sesamevillage.arks.tw/&hellip;
+                        <img src="https://enidleeee.github.io/portfolio/media/posts/1/Feature-img.png" alt="" />
+                    負責項目 : 介面設計、前後端切版 製作期間 : 10天 (July.2021) 使用工具 : sketch、VUE、html、css 🔗 https://eschool.sesamevillage.arks.tw/&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://enidleeee.github.io/portfolio/media/posts/1/Feature-img-2.png" alt="" />
-                <pre>負責項目 : layout、前後端切版<br>製作期間 : 10天 (July.2021)<br>使用工具 : sketch、VUE、html、css<br><br>🔗 <a href="https://eschool.sesamevillage.arks.tw/" target="_blank" rel="noopener noreferrer">https://eschool.sesamevillage.arks.tw/</a></pre>
+                    <img src="https://enidleeee.github.io/portfolio/media/posts/1/Feature-img.png" alt="" />
+                <pre>負責項目 : 介面設計、前後端切版<br>製作期間 : 10天 (July.2021)<br>使用工具 : sketch、VUE、html、css<br><br>🔗 <a href="https://eschool.sesamevillage.arks.tw/" target="_blank" rel="noopener noreferrer">https://eschool.sesamevillage.arks.tw/</a></pre>
 <blockquote>
-<p>「Sesame Street English —芝蔴街美語教材」結合芝蔴街廣受全世界兒童喜愛的布偶、教育專家的心血、電腦動畫、高科技電子產品、豐富的教學經驗為一體。</p>
+<p><strong>「Sesame Street English —芝蔴街美語教材」</strong>結合芝蔴街廣受全世界兒童喜愛的布偶、教育專家的心血、電腦動畫、高科技電子產品、豐富的教學經驗為一體。</p>
 <p>目標用戶廣為兒童、家長及老師所使用，藉由芝蔴街角色融入設計，使整體風格更為俏皮活潑，並且在介面上注重易於閱讀與操作的設計方式。</p>
 </blockquote>
 <figure class="post__image" ><figure class="post__image"><img loading="lazy"  src="https://enidleeee.github.io/portfolio/media/posts/1/sesamevillag6-3.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://enidleeee.github.io/portfolio/media/posts/1/responsive/sesamevillag6-3-xs.png 300w ,https://enidleeee.github.io/portfolio/media/posts/1/responsive/sesamevillag6-3-sm.png 480w ,https://enidleeee.github.io/portfolio/media/posts/1/responsive/sesamevillag6-3-md.png 768w ,https://enidleeee.github.io/portfolio/media/posts/1/responsive/sesamevillag6-3-lg.png 1024w"  alt="" width="1280" height="981"></figure>
@@ -75,12 +175,60 @@
 </figure>
 <figure class="post__image"><img loading="lazy"  src="https://enidleeee.github.io/portfolio/media/posts/1/sesamevillage4-3.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://enidleeee.github.io/portfolio/media/posts/1/responsive/sesamevillage4-3-xs.png 300w ,https://enidleeee.github.io/portfolio/media/posts/1/responsive/sesamevillage4-3-sm.png 480w ,https://enidleeee.github.io/portfolio/media/posts/1/responsive/sesamevillage4-3-md.png 768w ,https://enidleeee.github.io/portfolio/media/posts/1/responsive/sesamevillage4-3-lg.png 1024w"  alt="" width="1280" height="882"></figure>
 <figure class="post__image"><img loading="lazy"  src="https://enidleeee.github.io/portfolio/media/posts/1/sesamevillage2-3.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://enidleeee.github.io/portfolio/media/posts/1/responsive/sesamevillage2-3-xs.png 300w ,https://enidleeee.github.io/portfolio/media/posts/1/responsive/sesamevillage2-3-sm.png 480w ,https://enidleeee.github.io/portfolio/media/posts/1/responsive/sesamevillage2-3-md.png 768w ,https://enidleeee.github.io/portfolio/media/posts/1/responsive/sesamevillage2-3-lg.png 1024w"  alt="" width="1280" height="775"></figure>
-<figure class="post__image"><img loading="lazy"  src="https://enidleeee.github.io/portfolio/media/posts/1/Frame-3.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://enidleeee.github.io/portfolio/media/posts/1/responsive/Frame-3-xs.png 300w ,https://enidleeee.github.io/portfolio/media/posts/1/responsive/Frame-3-sm.png 480w ,https://enidleeee.github.io/portfolio/media/posts/1/responsive/Frame-3-md.png 768w ,https://enidleeee.github.io/portfolio/media/posts/1/responsive/Frame-3-lg.png 1024w"  alt="" width="1280" height="1153"></figure>
+<figure ><figure class="post__image"><img loading="lazy"  src="https://enidleeee.github.io/portfolio/media/posts/1/Frame-3-4.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://enidleeee.github.io/portfolio/media/posts/1/responsive/Frame-3-4-xs.png 300w ,https://enidleeee.github.io/portfolio/media/posts/1/responsive/Frame-3-4-sm.png 480w ,https://enidleeee.github.io/portfolio/media/posts/1/responsive/Frame-3-4-md.png 768w ,https://enidleeee.github.io/portfolio/media/posts/1/responsive/Frame-3-4-lg.png 1024w"  alt="" width="1280" height="1153"></figure>
+<figcaption ></figcaption>
+</figure>
+<p> </p>
 <figure class="post__image" ><figure class="post__image"><img loading="lazy"  src="https://enidleeee.github.io/portfolio/media/posts/1/Group-65-2.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://enidleeee.github.io/portfolio/media/posts/1/responsive/Group-65-2-xs.png 300w ,https://enidleeee.github.io/portfolio/media/posts/1/responsive/Group-65-2-sm.png 480w ,https://enidleeee.github.io/portfolio/media/posts/1/responsive/Group-65-2-md.png 768w ,https://enidleeee.github.io/portfolio/media/posts/1/responsive/Group-65-2-lg.png 1024w"  alt="" width="1280" height="597"></figure>
 <figcaption >老師端-SITEMAP</figcaption>
 </figure>
 <figure class="post__image"><img loading="lazy"  src="https://enidleeee.github.io/portfolio/media/posts/1/sesamevillage5.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://enidleeee.github.io/portfolio/media/posts/1/responsive/sesamevillage5-xs.png 300w ,https://enidleeee.github.io/portfolio/media/posts/1/responsive/sesamevillage5-sm.png 480w ,https://enidleeee.github.io/portfolio/media/posts/1/responsive/sesamevillage5-md.png 768w ,https://enidleeee.github.io/portfolio/media/posts/1/responsive/sesamevillage5-lg.png 1024w"  alt="" width="1280" height="781"></figure><br><br></p>
-<p><strong><span style="color: #236fa1;">#web  #education</span></strong></p>
+<p><span style="color: #8f5e13;">#web</span><span style="color: #236fa1;">  <span style="color: #8f5e13;">#educa</span></span><span style="color: #8f5e13;">tion</span></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>LOVE my VOIVE 讓 i 發聲</title>
+        <author>
+            <name>Enid</name>
+        </author>
+        <link href="https://enidleeee.github.io/portfolio/love-my-voive-rang-ai-fa-sheng/"/>
+        <id>https://enidleeee.github.io/portfolio/love-my-voive-rang-ai-fa-sheng/</id>
+            <category term="web"/>
+
+        <updated>2022-06-16T15:57:41+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://enidleeee.github.io/portfolio/media/posts/9/Feature-img5.png" alt="" />
+                    負責項目 : 介面設計、前後端切版 製作期間 : 9天 (June.2021) 使用工具 : sketch、html、css、animate 🔗 https://www.lovemyself.org.tw/voice&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://enidleeee.github.io/portfolio/media/posts/9/Feature-img5.png" alt="" />
+                <pre>負責項目 : 介面設計、前後端切版<br>製作期間 : 9天 (June.2021)<br>使用工具 : sketch、html、css、animate<br><br>🔗 <a href="https://www.lovemyself.org.tw/voice" target="_blank" rel="noopener noreferrer">https://www.lovemyself.org.tw/voice</a></pre>
+<blockquote>
+<p><strong>LOVE my VOIVE 讓 i <em class="qkunPe">發</em>聲</strong>，是一個愛滋宣導網站。</p>
+<p>與愛同行的生活，更要<em class="qkunPe">讓  i 發聲。</em>這世界，總有各式眼光將我們囚禁，不知不覺，我們選擇將自己先關起來，來避免外面的傷害。在醫學和藥物治療已發展的現代，U=U、愛滋病毒慢性病化，生活、生命，與他人無異、更不會傳染。H+，更該做回自己、為自己發聲!</p>
+</blockquote>
+<figure class="post__image" ><img loading="lazy" src="https://enidleeee.github.io/portfolio/media/posts/9/LOVE-my-VOIVE-Rang-i-Fa-Sheng-2.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://enidleeee.github.io/portfolio/media/posts/9/responsive/LOVE-my-VOIVE-Rang-i-Fa-Sheng-2-xs.png 300w ,https://enidleeee.github.io/portfolio/media/posts/9/responsive/LOVE-my-VOIVE-Rang-i-Fa-Sheng-2-sm.png 480w ,https://enidleeee.github.io/portfolio/media/posts/9/responsive/LOVE-my-VOIVE-Rang-i-Fa-Sheng-2-md.png 768w ,https://enidleeee.github.io/portfolio/media/posts/9/responsive/LOVE-my-VOIVE-Rang-i-Fa-Sheng-2-lg.png 1024w"  alt="" width="1280" height="641">
+<figcaption >網站架構</figcaption>
+</figure>
+<h2><strong>設計理念</strong></h2>
+<p>塗著紅唇、搶色眼影、纖長睫毛、戴著大耳環，由裡到外的自信感。我希望可以透過插圖中充滿自信甚至有魅力的人物來傳達感染愛滋與常人並沒有什麼不同，仍然可以追求多采多姿的生活，不必在乎他人的眼光。</p>
+<p>一進入網站入口頁，藉由動畫效果引起使用者的興趣，帶領使用者依序看到 <strong>"I need help" </strong>和 <strong>"I can help" </strong>的畫面。 <strong>"I need help" </strong>主要提供感染愛滋病的治療資訊和問答，以及如果您的伴侶或親友甚至自己感染愛滋病時，也給予應對的相關知識。而 <strong>"I can help" </strong>則提供給想為愛滋病盡一份心力的人一個管道。</p>
+<figure class="post__image" ><figure class="post__image"><img loading="lazy"  style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);" src="https://enidleeee.github.io/portfolio/media/posts/9/hiv01-2.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://enidleeee.github.io/portfolio/media/posts/9/responsive/hiv01-2-xs.png 300w ,https://enidleeee.github.io/portfolio/media/posts/9/responsive/hiv01-2-sm.png 480w ,https://enidleeee.github.io/portfolio/media/posts/9/responsive/hiv01-2-md.png 768w ,https://enidleeee.github.io/portfolio/media/posts/9/responsive/hiv01-2-lg.png 1024w"  alt="" width="1280" height="946"></figure>
+<figcaption >入口頁</figcaption>
+</figure>
+<figure class="post__image" ><figure class="post__image"><img loading="lazy"  src="https://enidleeee.github.io/portfolio/media/posts/9/3-2.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://enidleeee.github.io/portfolio/media/posts/9/responsive/3-2-xs.png 300w ,https://enidleeee.github.io/portfolio/media/posts/9/responsive/3-2-sm.png 480w ,https://enidleeee.github.io/portfolio/media/posts/9/responsive/3-2-md.png 768w ,https://enidleeee.github.io/portfolio/media/posts/9/responsive/3-2-lg.png 1024w"  alt="" width="1280" height="3685"></figure>
+<figcaption >I need help - 親友與伴侶</figcaption>
+</figure>
+<p> </p>
+<figure class="post__image" ><img loading="lazy" src="https://enidleeee.github.io/portfolio/media/posts/9/hiv02.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://enidleeee.github.io/portfolio/media/posts/9/responsive/hiv02-xs.png 300w ,https://enidleeee.github.io/portfolio/media/posts/9/responsive/hiv02-sm.png 480w ,https://enidleeee.github.io/portfolio/media/posts/9/responsive/hiv02-md.png 768w ,https://enidleeee.github.io/portfolio/media/posts/9/responsive/hiv02-lg.png 1024w"  alt="" width="1280" height="2736">
+<figcaption >I can help</figcaption>
+</figure>
+<p> </p>
+<p><span style="color: #34495e;"><span style="color: #236fa1;"><span style="color: #8f5e13;">#web</span> </span> <span style="color: #8f5e13;">#health</span><span style="color: #236fa1;">  <span style="color: #8f5e13;">#RW</span></span><span style="color: #8f5e13;">D</span></span></p>
             ]]>
         </content>
     </entry>
@@ -93,19 +241,19 @@
         <id>https://enidleeee.github.io/portfolio/otterex-gong-si-gu-zhi-xi-tong/</id>
             <category term="web"/>
 
-        <updated>2022-06-12T16:06:36+08:00</updated>
+        <updated>2022-06-16T16:14:19+08:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://enidleeee.github.io/portfolio/media/posts/5/Feature-img2.png" alt="" />
-                    負責項目 : layout、前後端切版 製作期間 : 9天 (April.2021) 使用工具 : sketch、html、css 🔗 https://otterex.ewai-valuation.com/&hellip;
+                        <img src="https://enidleeee.github.io/portfolio/media/posts/5/Feature-img2-2.png" alt="" />
+                    負責項目 : 介面設計、前後端切版 製作期間 : 9天 (April.2021) 使用工具 : sketch、html、css 🔗 https://otterex.ewai-valuation.com/&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://enidleeee.github.io/portfolio/media/posts/5/Feature-img2.png" alt="" />
-                <pre>負責項目 : layout、前後端切版<br>製作期間 : 9天 (April.2021)<br>使用工具 : sketch、html、css<br><br>🔗 <a href="https://otterex.ewai-valuation.com/" target="_blank" rel="noopener noreferrer">https://otterex.ewai-valuation.com/</a></pre>
+                    <img src="https://enidleeee.github.io/portfolio/media/posts/5/Feature-img2-2.png" alt="" />
+                <pre>負責項目 : 介面設計、前後端切版<br>製作期間 : 9天 (April.2021)<br>使用工具 : sketch、html、css<br><br>🔗 <a href="https://otterex.ewai-valuation.com/" target="_blank" rel="noopener noreferrer">https://otterex.ewai-valuation.com/</a></pre>
 <blockquote>
-<p><span style="font-family: var(--font-serif); color: var(--text-primary-color); font-size: inherit; font-weight: var(--font-weight-normal);"><strong>OTTEREX公司估值系統 </strong>是 <strong>若水數位評鑑 </strong>為新創公司所提供的視覺化估值分析方案，此</span><span style="font-family: var(--font-serif); color: var(--text-primary-color); font-size: inherit; font-weight: var(--font-weight-normal);">估值系統係在一定前提假設下進行運算分析，並產出報告提供經營建議。</span></p>
+<p><span style="font-family: var(--font-serif); color: var(--text-primary-color); font-size: inherit; font-weight: var(--font-weight-normal);"><strong>OTTEREX公司估值系統 </strong>是 <strong>若水數位評鑑 </strong>為新創公司所提供的視覺化估值分析方案，此</span><span style="font-family: var(--font-serif); color: var(--text-primary-color); font-size: inherit; font-weight: var(--font-weight-normal);">估值系統是在一定前提假設下進行運算分析，並產出報告提供經營建議。</span></p>
 </blockquote>
 <figure ><figure class="post__image"><img loading="lazy"  src="https://enidleeee.github.io/portfolio/media/posts/5/ott1-2.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://enidleeee.github.io/portfolio/media/posts/5/responsive/ott1-2-xs.png 300w ,https://enidleeee.github.io/portfolio/media/posts/5/responsive/ott1-2-sm.png 480w ,https://enidleeee.github.io/portfolio/media/posts/5/responsive/ott1-2-md.png 768w ,https://enidleeee.github.io/portfolio/media/posts/5/responsive/ott1-2-lg.png 1024w"  alt="" width="1280" height="911"></figure>
 <figcaption ><span style="font-family: var(--font-serif); color: var(--text-primary-color); font-size: inherit; font-weight: var(--font-weight-normal);">OTTEREX公司估值系統 - 登入頁</span></figcaption>
@@ -114,7 +262,7 @@
 <figcaption ><span style="font-family: var(--font-serif); color: var(--text-primary-color); font-size: inherit; font-weight: var(--font-weight-normal);">OTTEREX公司估值系統 - 評鑑頁面</span></figcaption>
 </figure>
 <h4> </h4>
-<h3 class="align-center"><strong><em>挑戰</em></strong></h3>
+<h3 class="align-left"><strong>挑戰</strong></h3>
 <ul>
 <li>估值報告每股價值的樹線圖會因為一些極端數值並且若遇相同數值時會產生重疊影響閱讀
 <ul>
@@ -132,61 +280,8 @@
 <figcaption ><span style="font-family: var(--font-serif); color: var(--text-primary-color); font-size: inherit; font-weight: var(--font-weight-normal);">OTTEREX公司估值系統 - 估值報告第一頁</span></figcaption>
 </figure>
 <p> </p>
-<p><strong><span style="color: #236fa1;">#web  #finance</span></strong></p>
+<p><span style="color: #8f5e13;">#we</span><span style="color: #236fa1;"><span style="color: #8f5e13;">b</span>  </span><span style="color: #8f5e13;">#finance</span></p>
 <p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>麥胞小尖兵APP</title>
-        <author>
-            <name>Enid</name>
-        </author>
-        <link href="https://enidleeee.github.io/portfolio/mai-bao-xiao-jian-bing-app/"/>
-        <id>https://enidleeee.github.io/portfolio/mai-bao-xiao-jian-bing-app/</id>
-            <category term="web"/>
-            <category term="app"/>
-
-        <updated>2022-06-12T20:05:00+08:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://enidleeee.github.io/portfolio/media/posts/6/Feature-img3-2.png" alt="" />
-                    負責項目 : layout、前後端切版 參與期間 : 一年多 (January.2021 ~ May.2022) 使用工具 : sketch、Figma、VUE、ionic、html、css&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://enidleeee.github.io/portfolio/media/posts/6/Feature-img3-2.png" alt="" />
-                <pre>負責項目 : layout、前後端切版<br>參與期間 : 一年多 (January.2021 ~ May.2022)<br>使用工具 : sketch、Figma、VUE、ionic、html、css</pre>
-<blockquote>長久以來， 麥當勞一直不斷在進行營運優化以及管理效率提升的各種專案，同時也是重視員工成長的企業，<strong>麥胞小尖兵APP </strong>便是一款員工個人專屬APP，麥胞們可以透過此APP了解自身權益、福利以及所有麥當勞最新動態。</blockquote>
-<h3> </h3>
-<h2 class="align-left"><strong>遭遇改革</strong></h2>
-<p class="align-left">加入團隊初期，即遇到UI改版設計以及更換程式環境架構，目標是保持品牌價值並且提升整體使用流暢度。</p>
-<ul>
-<li>在<strong>UI介面改版設計</strong>時共同擬定Design System，為保持設計一致性，規劃新功能時需要遵循設計系統去做適當的發揮，保留品牌風格的同時更去加強整體架構上的流暢使用。</li>
-<li>在<strong>程式</strong>上必須花些時間熟悉新的UI framework，並且協助在有限時間內將多達100+的頁面，使用新架構切版出來並交付測試。</li>
-</ul>
-<figure class="post__image" ><figure class="post__image"><img loading="lazy"  src="https://enidleeee.github.io/portfolio/media/posts/6/Mai-Bao-Xiao-Jian-Bing-APP-2.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://enidleeee.github.io/portfolio/media/posts/6/responsive/Mai-Bao-Xiao-Jian-Bing-APP-2-xs.png 300w ,https://enidleeee.github.io/portfolio/media/posts/6/responsive/Mai-Bao-Xiao-Jian-Bing-APP-2-sm.png 480w ,https://enidleeee.github.io/portfolio/media/posts/6/responsive/Mai-Bao-Xiao-Jian-Bing-APP-2-md.png 768w ,https://enidleeee.github.io/portfolio/media/posts/6/responsive/Mai-Bao-Xiao-Jian-Bing-APP-2-lg.png 1024w"  alt="" width="1280" height="1601"></figure>
-<figcaption >此表為改版時被分配的功能，以及日後所負責的新功能</figcaption>
-</figure>
-<h3> </h3>
-<h2 class="LC20lb MBeuO DKV0Md align-left"><strong>透過小遊戲增加用戶黏著度</strong></h2>
-<p>麥胞小尖兵作為與麥胞溝通的橋樑，藉由遊戲化的設計傳遞新品消息，並將食安以及消防等生硬資訊活潑呈現，不僅如此，完成指定任務累積點數還能從APP上換取麥胞精品。</p>
-<h4><span style="color: #236fa1;"><strong>超前部署之消防演練</strong></span></h4>
-<pre>活動名稱 : 超前部署之消防演練<br>負責項目 : layout、切版<br>製作期間 : 4天 (April.2021)<br>使用工具 : sketch、html、css</pre>
-<figure class="post__image"><img loading="lazy"  src="https://enidleeee.github.io/portfolio/media/posts/6/mcd01.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://enidleeee.github.io/portfolio/media/posts/6/responsive/mcd01-xs.png 300w ,https://enidleeee.github.io/portfolio/media/posts/6/responsive/mcd01-sm.png 480w ,https://enidleeee.github.io/portfolio/media/posts/6/responsive/mcd01-md.png 768w ,https://enidleeee.github.io/portfolio/media/posts/6/responsive/mcd01-lg.png 1024w"  alt="" width="1280" height="1620"></figure>
-<hr>
-<h4><strong>新春DT加油讚</strong></h4>
-<pre>活動名稱 : 新春DT加油讚<br>負責項目 : layout、切版<br>製作期間 : 3天 (January.2022)<br>使用工具 : sketch、html、css</pre>
-<figure class="post__image"><img loading="lazy"  src="https://enidleeee.github.io/portfolio/media/posts/6/mcd02.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://enidleeee.github.io/portfolio/media/posts/6/responsive/mcd02-xs.png 300w ,https://enidleeee.github.io/portfolio/media/posts/6/responsive/mcd02-sm.png 480w ,https://enidleeee.github.io/portfolio/media/posts/6/responsive/mcd02-md.png 768w ,https://enidleeee.github.io/portfolio/media/posts/6/responsive/mcd02-lg.png 1024w"  alt="" width="1280" height="1620"></figure>
-<p> </p>
-<p> </p>
-<p><span style="color: #7e8c8d;"><strong>媒體報導</strong></span></p>
-<p><a href="#INTERNAL_LINK#/post/null"></a><a href="https://www.chinatimes.com/realtimenews/20201222001376-260405?chdtv" target="_blank" rel="noopener noreferrer">「手遊」概念犒賞員工 麥當勞「線上尾牙」好嗨</a></p>
-<p><a href="https://www.managertoday.com.tw/articles/view/62211" target="_blank" rel="noopener noreferrer">麥當勞大店長學：不只當個小螺絲釘，一支人人都是教練的美味戰隊！</a></p>
-<p><a href="https://www.cio.com.tw/interview-mcdonalds-vice-president-of-strategic-innovation-group-lin-mingdao/" target="_blank" rel="noopener noreferrer">麥當勞透過員工App(麥胞小尖兵) 做為溝通管道，度過疫情衝擊</a></p>
-<p> </p>
-<p><strong><span style="color: #236fa1;"><span style="color: #236fa1;">#app</span> <span style="color: #843fa1;"> <span style="color: #236fa1;">#productivity</span></span> <span style="color: #236fa1;"> #ios</span> <span style="color: #236fa1;"> #android</span></span></strong></p>
             ]]>
         </content>
     </entry>
