@@ -3,7 +3,7 @@
     <title>Enid Lee</title>
     <link href="https://enidleeee.github.io/portfolio/feed.xml" rel="self" />
     <link href="https://enidleeee.github.io/portfolio" />
-    <updated>2022-06-19T17:31:42+08:00</updated>
+    <updated>2022-06-26T20:02:22+08:00</updated>
     <author>
         <name>Enid</name>
     </author>
@@ -241,7 +241,7 @@
         <id>https://enidleeee.github.io/portfolio/otterex-gong-si-gu-zhi-xi-tong/</id>
             <category term="web"/>
 
-        <updated>2022-06-16T16:14:19+08:00</updated>
+        <updated>2022-06-26T20:02:22+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://enidleeee.github.io/portfolio/media/posts/5/Feature-img2-2.png" alt="" />
@@ -253,7 +253,7 @@
                     <img src="https://enidleeee.github.io/portfolio/media/posts/5/Feature-img2-2.png" alt="" />
                 <pre>負責項目 : 介面設計、前後端切版<br>製作期間 : 9天 (April.2021)<br>使用工具 : sketch、html、css<br><br>🔗 <a href="https://otterex.ewai-valuation.com/" target="_blank" rel="noopener noreferrer">https://otterex.ewai-valuation.com/</a></pre>
 <blockquote>
-<p><span style="font-family: var(--font-serif); color: var(--text-primary-color); font-size: inherit; font-weight: var(--font-weight-normal);"><strong>OTTEREX公司估值系統 </strong>是 <strong>若水數位評鑑 </strong>為新創公司所提供的視覺化估值分析方案，此</span><span style="font-family: var(--font-serif); color: var(--text-primary-color); font-size: inherit; font-weight: var(--font-weight-normal);">估值系統是在一定前提假設下進行運算分析，並產出報告提供經營建議。</span></p>
+<p><span style="font-family: var(--font-serif); color: var(--text-primary-color); font-size: inherit; font-weight: var(--font-weight-normal);"><strong>OTTEREX公司估值系統 </strong>是 <strong>若水數位評鑑 </strong>為企業所提供的視覺化估值分析方案，此</span><span style="font-family: var(--font-serif); color: var(--text-primary-color); font-size: inherit; font-weight: var(--font-weight-normal);">估值系統是在一定前提假設下進行運算分析，並產出報告提供經營建議。</span></p>
 </blockquote>
 <figure ><figure class="post__image"><img loading="lazy"  src="https://enidleeee.github.io/portfolio/media/posts/5/ott1-2.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://enidleeee.github.io/portfolio/media/posts/5/responsive/ott1-2-xs.png 300w ,https://enidleeee.github.io/portfolio/media/posts/5/responsive/ott1-2-sm.png 480w ,https://enidleeee.github.io/portfolio/media/posts/5/responsive/ott1-2-md.png 768w ,https://enidleeee.github.io/portfolio/media/posts/5/responsive/ott1-2-lg.png 1024w"  alt="" width="1280" height="911"></figure>
 <figcaption ><span style="font-family: var(--font-serif); color: var(--text-primary-color); font-size: inherit; font-weight: var(--font-weight-normal);">OTTEREX公司估值系統 - 登入頁</span></figcaption>
@@ -264,9 +264,14 @@
 <h4> </h4>
 <h3 class="align-left"><strong>挑戰</strong></h3>
 <ul>
-<li>估值報告每股價值的樹線圖會因為一些極端數值並且若遇相同數值時會產生重疊影響閱讀
+<li>如何提升評鑑問卷的體驗，讓整體過程簡化同時又能在遇到一些專有名詞時，讓使用者迅速了解其義，促使他繼續作答
 <ul>
-<li>將設計改成數值上下錯開排列，並且切板時限制一個最大數值控制在框框內避免破版</li>
+<li>為了減緩使用者一次性看到過多的題目會有不想填寫的意願，因此將評鑑分為三個步驟進行。在設計風格上也走向活潑色調，搭配hover動態效果讓整體填寫的過程中增添一些趣味性。遇到需要解釋的專有名詞時，也以最不佔版面的圖示去加以輔助點擊說明。</li>
+</ul>
+</li>
+<li> 估值報告每股價值的樹線圖會因為一些極端數值並且若遇相同數值時會產生重疊影響閱讀
+<ul>
+<li>最終決定將左右的數值上下錯開設計來避免數字重疊，並且切板時限制一個最大數值控制在框框內避免破版</li>
 </ul>
 </li>
 <li>在報告產出列印PDF時遇到跑版的情形，當時被告知在產出PDF時css上有使用上的限制(css3等新語法無法被實現，僅能使用table的切法)，但由於報告內容有數線圖、圓餅圖等複雜圖表，無法用table實現
@@ -282,6 +287,33 @@
 <p> </p>
 <p><span style="color: #8f5e13;">#we</span><span style="color: #236fa1;"><span style="color: #8f5e13;">b</span>  </span><span style="color: #8f5e13;">#finance</span></p>
 <p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Pugrace印花品牌電商網站</title>
+        <author>
+            <name>Enid</name>
+        </author>
+        <link href="https://enidleeee.github.io/portfolio/pugraceyin-hua-pin-pai-dian-shang-wang-zhan/"/>
+        <id>https://enidleeee.github.io/portfolio/pugraceyin-hua-pin-pai-dian-shang-wang-zhan/</id>
+            <category term="web"/>
+            <category term="case study"/>
+
+        <updated>2022-06-26T19:56:55+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://enidleeee.github.io/portfolio/media/posts/11/Feature-img8.png" alt="" />
+                    想看夠多Functional Map、Flow Chart、UI Flow等細節請點擊 Pugrace企劃書 詳閱。 謝謝您耐心閱讀，此專案所使用到的照片及內容僅使用在個人作品集並無任何商業用途。
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://enidleeee.github.io/portfolio/media/posts/11/Feature-img8.png" alt="" />
+                <figure class="post__image"><img loading="lazy"  src="https://enidleeee.github.io/portfolio/media/posts/11/purgrace.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://enidleeee.github.io/portfolio/media/posts/11/responsive/purgrace-xs.png 300w ,https://enidleeee.github.io/portfolio/media/posts/11/responsive/purgrace-sm.png 480w ,https://enidleeee.github.io/portfolio/media/posts/11/responsive/purgrace-md.png 768w ,https://enidleeee.github.io/portfolio/media/posts/11/responsive/purgrace-lg.png 1024w"  alt="" width="1280" height="2208"></figure>
+<p>想看夠多Functional Map、Flow Chart、UI Flow等細節請點擊 <a href="https://drive.google.com/drive/folders/1w88wGW9168GskA0ByxjDU__z5_nuixBR" target="_blank" rel="noopener noreferrer">Pugrace企劃書</a> 詳閱。</p>
+<p> </p>
+<p class="msg--highlight msg msg--info"><em>謝謝您耐心閱讀，此專案所使用到的照片及內容僅使用在個人作品集並無任何商業用途。</em></p>
             ]]>
         </content>
     </entry>
