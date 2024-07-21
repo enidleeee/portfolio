@@ -105,23 +105,6 @@
             ],
             "date_published": "2021-05-08T16:10:00+08:00",
             "date_modified": "2022-06-26T20:02:22+08:00"
-        },
-        {
-            "id": "https://enidleeee.github.io/portfolio/pugraceyin-hua-pin-pai-dian-shang-wang-zhan/",
-            "url": "https://enidleeee.github.io/portfolio/pugraceyin-hua-pin-pai-dian-shang-wang-zhan/",
-            "title": "Pugrace印花品牌電商網站",
-            "summary": "想看夠多Functional Map、Flow Chart、UI Flow等細節請點擊 Pugrace企劃書 詳閱。 謝謝您耐心閱讀，此專案所使用到的照片及內容僅使用在個人作品集並無任何商業用途。",
-            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://enidleeee.github.io/portfolio/media/posts/11/purgrace.png\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://enidleeee.github.io/portfolio/media/posts/11/responsive/purgrace-xs.png 300w ,https://enidleeee.github.io/portfolio/media/posts/11/responsive/purgrace-sm.png 480w ,https://enidleeee.github.io/portfolio/media/posts/11/responsive/purgrace-md.png 768w ,https://enidleeee.github.io/portfolio/media/posts/11/responsive/purgrace-lg.png 1024w\"  alt=\"\" width=\"1280\" height=\"2208\"></figure>\n<p>想看夠多Functional Map、Flow Chart、UI Flow等細節請點擊 <a href=\"https://drive.google.com/drive/folders/1w88wGW9168GskA0ByxjDU__z5_nuixBR\" target=\"_blank\" rel=\"noopener noreferrer\">Pugrace企劃書</a> 詳閱。</p>\n<p> </p>\n<p class=\"msg--highlight msg msg--info\"><em>謝謝您耐心閱讀，此專案所使用到的照片及內容僅使用在個人作品集並無任何商業用途。</em></p>",
-            "image": "https://enidleeee.github.io/portfolio/media/posts/11/Feature-img8.png",
-            "author": {
-                "name": "Enid"
-            },
-            "tags": [
-                   "web",
-                   "UIUX"
-            ],
-            "date_published": "2020-08-26T19:52:00+08:00",
-            "date_modified": "2022-06-26T19:56:55+08:00"
         }
     ]
 }
